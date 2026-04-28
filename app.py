@@ -22,7 +22,7 @@ st.markdown("""
 
     html, body, [class*="css"] { font-family: 'DM Sans', sans-serif; }
 
-    section[data-testid="stSidebar"] { background: #880009; border-right: 1px solid #e0e0e0; } 
+    section[data-testid="stSidebar"] { background: #00000e; border-right: 1px solid #e0e0e0; } 
     section[data-testid="stSidebar"] * { color: #fff6ff !important; }
     section[data-testid="stSidebar"] .stSelectbox label,
     section[data-testid="stSidebar"] .stSlider label,

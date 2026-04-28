@@ -4,6 +4,11 @@ Predicting which telecom customers are likely to churn using machine learning, e
 
 ---
 
+## Live Demo
+[View the live dashboard](https://your-username-telco-churn-prediction.streamlit.app)
+
+---
+
 ## Problem Statement
 
 Customer churn is a critical business problem in the telecom industry. Acquiring a new customer costs significantly more than retaining an existing one. This project builds a binary classification model on the IBM Telco Customer Churn dataset to identify at-risk customers, and provides interpretable insights into the key drivers of churn.

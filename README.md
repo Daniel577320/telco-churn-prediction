@@ -5,7 +5,7 @@ Predicting which telecom customers are likely to churn using machine learning, e
 ---
 
 ## Live Demo
-[View the live dashboard](https://your-username-telco-churn-prediction.streamlit.app)
+[View the live dashboard](https://telco-churn-prediction-75llergkw5gvjhotmf4rag.streamlit.app/)
 
 ---
 
